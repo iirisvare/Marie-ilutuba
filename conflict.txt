@@ -1,4 +1,8 @@
 Siin on paar rida teksti. 
 Ma tahaks tegelikult praegu magada. 
 Aidake mind.
+<<<<<<< HEAD
 :()-<
+=======
+: D
+>>>>>>> d242f83a0e7e3a98aa6c3e53392e3cae85794fd3
